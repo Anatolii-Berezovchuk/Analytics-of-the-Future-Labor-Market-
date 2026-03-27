@@ -25,6 +25,8 @@ AI‑влияние на рынок труда многомерно:
 - а зарплаты сильнее зависят от структуры навыков и давления на их обновление.
 
 ---
+<img width="779" height="781" alt="image" src="https://github.com/user-attachments/assets/17c8f426-a9e1-408f-87f6-9485752e392a" />
+
 
 ## 2. Scatterplot: Automation Risk vs Salary Change
 
