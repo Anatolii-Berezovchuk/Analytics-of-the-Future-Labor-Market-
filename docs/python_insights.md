@@ -1,6 +1,7 @@
 # Python Analysis 
 
 ## 1. Correlation Matrix
+<img width="1089" height="874" alt="image" src="https://github.com/user-attachments/assets/ae8004a0-1b49-4766-afde-9fa9f87bbbfe" />
 
 ### Наблюдение
 Корреляционная матрица показывает несколько сильных и экономически значимых связей:
@@ -25,10 +26,9 @@ AI‑влияние на рынок труда многомерно:
 - а зарплаты сильнее зависят от структуры навыков и давления на их обновление.
 
 ---
-<img width="779" height="781" alt="image" src="https://github.com/user-attachments/assets/17c8f426-a9e1-408f-87f6-9485752e392a" />
-
 
 ## 2. Scatterplot: Automation Risk vs Salary Change
+<img width="853" height="547" alt="image" src="https://github.com/user-attachments/assets/ca2cdb24-bd54-49ab-af05-0d49f6269b36" />
 
 ### Наблюдение
 Точки распределены хаотично, без выраженной линейной зависимости:
@@ -48,6 +48,7 @@ AI‑влияние на рынок труда многомерно:
 ---
 
 ## 3. Boxplot: Automation Risk Distribution by Industry
+<img width="1152" height="614" alt="image" src="https://github.com/user-attachments/assets/19f52889-ba84-43ff-98bd-4f79281c0e46" />
 
 ### Наблюдение
 Все индустрии имеют почти одинаковое распределение риска:
@@ -66,6 +67,7 @@ AI одинаково затрагивает Technology, Finance, Retail, Manufa
 ---
 
 ## 4. Barplot: Average Automation Risk by Industry
+<img width="997" height="614" alt="image" src="https://github.com/user-attachments/assets/ac260a95-b4dc-4576-b42a-30dee13960d7" />
 
 ### Наблюдение
 Средний риск по индустриям колеблется в узком диапазоне **45–47%**.
@@ -81,6 +83,7 @@ AI одинаково затрагивает Technology, Finance, Retail, Manufa
 ---
 
 ## 5. Jointplot: Automation Risk vs AI Replacement Score
+<img width="794" height="789" alt="image" src="https://github.com/user-attachments/assets/af186e65-6ddc-4f18-9b22-d86d725d2291" />
 
 ### Наблюдение
 График показывает чёткую диагональную структуру:
@@ -98,6 +101,7 @@ AI одинаково затрагивает Technology, Finance, Retail, Manufa
 
 ### Наблюдение
 PCA‑кластеризация выделила **4 чётких сегмента** профессий:
+<img width="847" height="624" alt="image" src="https://github.com/user-attachments/assets/3b7e76ac-1096-4ef1-bb91-2c51527dbdde" />
 
 - **Cluster 0** — Data Analyst, Teacher (Technology), профессии со средним риском и умеренным AI‑влиянием.  
 - **Cluster 1** — (по графику) вероятно низкорисковые профессии с устойчивыми зарплатами.  
